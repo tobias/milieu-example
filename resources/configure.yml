@@ -1,0 +1,7 @@
+dev:
+  ham: biscuit
+  eggs: scrambled
+prod:
+  ham: sandwich
+  eggs: fried
+
